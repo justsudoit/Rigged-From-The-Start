@@ -1,4 +1,4 @@
-# Title WIP
+# Rigged From The Start
 
 <table stlyle="border: none;">
 <tr>
@@ -19,7 +19,7 @@
 
 ## Preamble
 
-**Title WIP** is a Fallout New Vegas modlist that aims to freshen up the visuals and core gameplay, featuring:
+**Rigged From The Start** is a Fallout New Vegas modlist that aims to freshen up the visuals and core gameplay, featuring:
  - Hundreds of high quality models and textures (very few vanilla assets remain in place)
  - A complete overhaul of weather and lighting
  - A revamped sound track, with many new songs and ambient sounds
@@ -44,7 +44,7 @@ Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED 
 
 ### Recommended System Requirements
 
-**Title WIP** requires a mid-tier modern system to run to its fullest potential.
+**Rigged From The Start** requires a mid-tier modern system to run to its fullest potential.
 
 | Component    | Recommendation | 
 |:--------------:|:-------------:|
@@ -60,12 +60,12 @@ See how to setup a page file [here.](https://www.tomshardware.com/news/how-to-ma
 
 ## Installation
 
-Installing **Title WIP** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing **Rigged From The Start** is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 
 ### Pre-Installation
 
-Prior to installing **Title WIP**, please complete the following steps.
+Prior to installing **Rigged From The Start**, please complete the following steps.
 _If you know that you have a completely unmodified game **and** it is NOT installed in a Windows Protected folder, you can safely skip steps 2 & 3_
 
 1. Update you VC++ [Runtime Libraries](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
@@ -84,14 +84,14 @@ _If you know that you have a completely unmodified game **and** it is NOT instal
 
 Once you have completed pre-installation, download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) and place it in a folder such as `C:\Games\Wabbajack`. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
-#### Downloading and Installing **Title WIP**
+#### Downloading and Installing **Rigged From The Start**
 
-Downloading and installing **Title WIP** can take a while depending on your internet connection and computer. To install, complete the following steps.
+Downloading and installing **Rigged From The Start** can take a while depending on your internet connection and computer. To install, complete the following steps.
 
-1. Create a new folder where you want to install the list, somewhere like `C:\Title WIP`, **Do not install it to your desktop or downloads folder.**
+1. Create a new folder where you want to install the list, somewhere like `C:\RFTS`, **Do not install it to your desktop or downloads folder.**
 2. Add an exclusion for the installation folder in Windows Defender. [Here's how](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 3. Open Wabbajack and click on browse modlists.
-4. Press the download button on **Title WIP** and wait for it to download.
+4. Press the download button on **Rigged From The Start** and wait for it to download.
 5. Select the folder you created in step 1 to be the installation location.
 6. Press the play button to begin.
 7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
@@ -112,7 +112,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Stock Game
 
-**Title WIP** utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your New Vegas installation within the installation location of the list. This enables greater compatibility with other mod-lists. You can find this folder in your installation directory, it is called **\[NoDelete\] Stock Game**
+**Rigged From The Start** utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your New Vegas installation within the installation location of the list. This enables greater compatibility with other mod-lists. You can find this folder in your installation directory, it is called **\[NoDelete\] Stock Game**
 
 **Before running Mod Organizer, you MUST perform these steps**
 1. Navigate to your game installation folder (where you installed the game through Steam or GOG)
@@ -131,7 +131,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 **DXVK is installed by default, it is highly recommended for AMD graphics cards. If you have an NVIDIA graphics card, you _may_ have better performance without it. To uninstall it, simply delete d3d9.dll from the Stock Game folder, and set `bFull Screen = 1` in falloutcustom.ini**
 _Without DXVK, you will lose the ability to alt-tab without crashing the game._
 
-**Title WIP** comes with several list customization options. There is ultrawide support under the "Ultrawide Support" section of Mod Organizer 2.
+**Rigged From The Start** comes with several list customization options. There is ultrawide support under the "Ultrawide Support" section of Mod Organizer 2.
 
 
 ### Starting up the list
