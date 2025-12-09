@@ -19,8 +19,8 @@
 
 ## Preamble
 
-**Rigged From The Start** is a Fallout New Vegas modlist that aims to freshen up the visuals and core gameplay, featuring:
- - Hundreds of high quality models and textures (very few vanilla assets remain in place)
+**Rigged From The Start** is a Fallout New Vegas modlist that aims to update the visuals and core gameplay, featuring:
+ - Thousands of high quality models and textures (very few vanilla assets remain in place)
  - A complete overhaul of weather and lighting
  - A revamped sound track, with many new songs and ambient sounds
  - Many new locations to explore
