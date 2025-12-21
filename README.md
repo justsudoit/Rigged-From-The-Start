@@ -112,7 +112,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Stock Game
 
-**Rigged From The Start** utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your New Vegas installation within the installation location of the list. This enables greater compatibility with other mod-lists. You can find this folder in your installation directory, it is called **\[NoDelete\] Stock Game**
+**Rigged From The Start** utilizes a Wabbajack technology called Stock Game. What this essentially does is create a copy of your New Vegas installation within the installation location of the list. This enables greater compatibility with other mod-lists. You can find this folder in your installation directory (aka modlist folder), it is called **\[NoDelete\] Stock Game**
 
 **Before running Mod Organizer, you MUST perform these steps**
 1. Navigate to your game installation folder (where you installed the game through Steam or GOG)
@@ -123,6 +123,9 @@ It is possible that you may encounter an error with Wabbajack when installing. S
    - For the path to your Fallout New Vegas installation, point it to the Stock Game Folder
    -  For the path where your decompressed BSAs should be stored, point it to \<modlist folder\>\\mods\\\[NoDelete\] Decompressed BSAs
    -  [Example](https://raw.githubusercontent.com/justsudoit/fnvmlwip/main/pictures/BSA%20Decompressor.png)
+4. (Optional but recommended for best performance) From the Stock Game Folder, open dxvk.conf with a text editor.
+   - Edit the following setting to have a value just below your monitors refresh rate **OR** a target frame rate that your system will not frequently drop below (whichever is lower).
+   `d3d9.maxFrameRate = 140`
   
 **Only after completeing steps 1-3 above are you ready to run ModOrganizer.exe**
 
