@@ -35,12 +35,13 @@
 
 ## System Requirements
 
-Only the english Steam and GOG versions of the game are supported. Any other versions of the game will not work.
+Only the english Steam and GOG "Ultimate" editions of the game are supported. Any other versions of the game will not work.
 
 Only, Windows 10 and 11 work with Wabbajack fully. LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK**. Your windows version **must be 21H2 or newer** to run Wabbajack.
 
 Running the list from Hard Disk Drives or external drives is **STRONGLY ADVISED AGAINST**. A lot of high quality models and textures are used and, as a result, fast storage and RAM are needed.
 
+A Nexus mods account is **Required** and a premium subscription is highly recommended as it will greatly speed up the installation process.
 
 ### Recommended System Requirements
 
@@ -142,6 +143,8 @@ Open the installation folder and double-click on the program called `ModOrganize
 
 Make sure the dropdown box on the right is set to `New Vegas` and press the `Run` button.
 
+While using DXVK (which is installed with the list by default), the game **will stutter** while shaders are compiled. The stutters will go away once all shaders have been compiled, usualy after visting a few different locations.
+
 ### In-game MCM options
 
 All the MCM options are pre-configured for you, I advise against tweaking them other than to change keybinds.
@@ -151,7 +154,7 @@ All the MCM options are pre-configured for you, I advise against tweaking them o
 
 1. Read the description of each SPECIAL stat carefully, as they have updated descriptions to reflect how they behave in the list.
 2. Your skills start lower than in vanilla.
-3. Intelligence has NO EFFECT on your skill points when leveling, you will always get 10 points.
+3. Intelligence has NO EFFECT on your skill points when leveling, you will always get 7 points.
 4. TAG skills increase at double the normal rate, meaning 1 point spent on a TAG skill will increase the skill level by 2.
 5. You will not get the chance to revise your character when leaving Goodsprings.
 
@@ -167,7 +170,7 @@ There are a couple of keybinds setup to use thumb buttons on a mouse (buttons 4 
 
 - The list was balanced around Normal difficulty and Hardcore mode.
 - This list uses [Physics' Based Ballistics](https://www.nexusmods.com/newvegas/mods/82561) which means that you will need to compensate for bullet drop and travel time at longer ranges.
-- Speech checks will appear as normal dialogue options and you will not be notified of a pass or failure of a speech check. This tweak is meant to enhance roleplay by encouraging you to simply pick the dialogue options you feel best fit your character.
+- Skill check options in dialogue will appear as normal dialogue options (the skill tags are removed) but you will still be notified of a pass or failure of a speech check. This tweak is meant to enhance roleplay by encouraging you to simply pick the dialogue options you feel best fit your character.
 - Power armour is extremely strong. To take someone down who is wearing it, you will want very high damage weapons, AP ammo, explosives, weapons with the EMP effect etc.
 
 
