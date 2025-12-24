@@ -91,11 +91,13 @@ Downloading and installing **Rigged From The Start** can take a while depending 
 
 1. Create a new folder where you want to install the list, somewhere like `C:\RFTS`, **Do not install it to your desktop or downloads folder.**
 2. Add an exclusion for the installation folder in Windows Defender. [Here's how](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
-3. Open Wabbajack and click on browse modlists.
-4. Press the download button on **Rigged From The Start** and wait for it to download.
-5. Select the folder you created in step 1 to be the installation location.
-6. Press the play button to begin.
-7. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
+3. Open Wabbajack and make sure you are signed into your Nexus Mods account (click the settings button in the lower left, then click the button to sign into Nexus).
+4. From the main Wabbajack menu, click on browse modlists.
+5. Search for **Rigged From the Start** and make sure that unofficial modlists are visible.
+6. Press the download button on **Rigged From The Start** and wait for it to download.
+7. Select the folder you created in step 1 to be the installation location.
+8. Press the install button to begin.
+9. If the installation is successful, jump for joy and move onto [post installation](#post-installation). If the installation is unsuccessful, follow what is below.
 
 ***
 
