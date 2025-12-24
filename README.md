@@ -50,13 +50,11 @@ A Nexus mods account is **Required** and a premium subscription is highly recomm
 | Component    | Recommendation | 
 |:--------------:|:-------------:|
 | CPU | 8th Generation i5 or better/equivalent
-| Ram | 16GB DDR4 Ram  + 40GB Pagefile 
+| Ram | 16GB DDR4 Ram or better
 | Storage | 250GB Solid State Drive
 | GPU | A card with 8GB VRAM or higher
 
-Space required: ~30GB Download Size ~30GB install Size ~60GB Total
-
-See how to setup a page file [here.](https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html)
+Space required: ~40GB Download Size ~80GB install Size ~120GB Total
 
 
 ## Installation
